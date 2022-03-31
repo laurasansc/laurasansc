@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
-<h3 align="center">A bioinformatics master student from Barcelona</h3>
+<h3 align="center">A bioinformatics graduate from Barcelona</h3>
 
-- 🔭 I’m currently working on **my Master thesis on building protein representations from tertiary structures**
+- 🔭 I’m currently working in **BioLib**, as a bioinformatics engineer developing bioinformatics tools both within BioLib but also in collaborations with the academic and open source communities.
+
+- 👩🏻‍🎓 I am a DTU Bioinformatics graduate. I defended **my Master thesis on building protein representations from tertiary structures** on February 2022.
 
 - 📫 How to reach me **laurasansc@gmail.com**
 
