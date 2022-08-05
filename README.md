@@ -5,6 +5,8 @@
 
 - 👩🏻‍🎓 I am a DTU Bioinformatics graduate. I defended **my Master thesis on building protein representations from tertiary structures** on February 2022.
 
+- 👩🏻‍💻 Find more about me in [my website](https://laurasansc.github.io/).
+
 - 📫 How to reach me **laurasansc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
